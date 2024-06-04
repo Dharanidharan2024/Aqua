@@ -1,2 +1,1 @@
-import props from <PropTypes></PropTypes>
-import 
+<p> welcome to Aquarium</p>
